@@ -1,7 +1,8 @@
 # SQLD Study (SQLD 자격증 학습/문제풀이/모의고사 웹앱)
+[![Visit Website](https://img.shields.io/badge/Visit-sqld--study.web.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sqld-study-3f30a.web.app/#/study)
 
 이 프로젝트는 SQLD(데이터베이스 개발자) 자격증 취득을 위한 학습 자료, 퀴즈, 모의고사 기능을 제공하는 웹 애플리케이션입니다.  
-React 기반으로 제작되었으며, Firebase Hosting을 통해 배포할 수 있습니다.
+React 기반으로 제작되었으며, Firebase Hosting을 통해 배포되었습니다.
 
 ---
 
